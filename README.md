@@ -20,26 +20,11 @@ The analysis is based on two main datasets:
 _Note: Data provided is sample data and is intended for testing purposes only._
 
 # About Dashboard
-The Sales & Traffic Dashboard provides an insightful analysis of sales performance and traffic sources over the specified date range. It is divided into two main sections:
+The Sales & Traffic Dashboard is designed to provide a comprehensive view of sales performance and traffic analysis. It incorporates various visual elements to present key metrics clearly:
 
-  1. **Sales Performance**
-  This section captures essential metrics, including:
-  
-  - Total Sales: 10 billion
-  - Total Quantity Sold: 69,000
-  - Total Orders: 37,840
-  - Total Customers: 30,510
-  
-  It also analyzes order completion versus cancellation rates, showcasing the effectiveness of various payment methods. Users can track daily sales trends, identifying peak days for sales activity and understanding customer purchasing behavior.
-
-2. **Traffic Analysis**
-  This section evaluates the effectiveness of different traffic sources in driving revenue, with a total of 3 million sessions and 1 million users. Key insights include:
-  
-  - **Traffic Breakdown by Type:** Highlights the contributions from paid search, social media, direct visits, and more.
-  - **Revenue by Traffic Source:** Identifies which channels generate the most revenue, with paid search leading at 10.1 billion.
-  - **User Engagement Metrics:** Includes average session duration and bounce rates, providing insights into customer retention across various traffic sources.
-  
-  Together, these sections equip users with the necessary data to make informed decisions, optimize sales strategies, and enhance customer retention efforts.
+- Sales Performance Visuals: Include bar charts for daily sales trends, pie charts for order completion versus cancellations, and line graphs to track average order values over time.
+- Traffic Analysis Visuals: Feature stacked area charts for traffic sources, heat maps to illustrate user engagement, and funnel charts to analyze customer conversion rates.
+These visuals work together to illustrate the relationship between sales and traffic, enabling users to make informed decisions and optimize their strategies effectively.
   
 ![Schema](./Images/Dashboard.png)  
 
