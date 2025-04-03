@@ -1,10 +1,10 @@
 # Seller A Revenue Analysis and KPI Achievement Plan
-This project provides an analysis of Seller A’s historical sales and traffic data to develop a strategy to double gross revenue from 10B VND in July to 20B VND in August. The repository includes an exploratory data analysis (EDA) in Jupyter Notebook and a presentation slide deck summarizing key findings and actionable recommendations.
+This project provides an analysis of Seller A’s historical sales and traffic data to develop a strategy to double gross revenue from 10B VND in July to 20B VND in August. The repository includes a dashboard and a presentation slide deck summarizing key findings and actionable recommendations.
 
 # Project Overview
 In this analysis, we:
 
-- Conducted an exploratory data analysis (EDA) to identify key insights from the provided datasets.
+- Buid a dashboard by *Power BI* to identify key insights from the provided datasets.
 
 - Analyzed patterns in historical sales performance and traffic source data.
 
@@ -34,6 +34,7 @@ It also analyzes order completion versus cancellation rates, showcasing the effe
 
 2. **Traffic Analysis**
 This section evaluates the effectiveness of different traffic sources in driving revenue, with a total of 3 million sessions and 1 million users. Key insights include:
+
 - **Traffic Breakdown by Type:** Highlights the contributions from paid search, social media, direct visits, and more.
 - **Revenue by Traffic Source:** Identifies which channels generate the most revenue, with paid search leading at 10.1 billion.
 - **User Engagement Metrics:** Includes average session duration and bounce rates, providing insights into customer retention across various traffic sources.
